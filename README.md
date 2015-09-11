@@ -73,9 +73,7 @@ A function to run when other work is complete. The context is ALWAYS the origina
 Make sure the function is available in the global context. I know it's ugly but I couldn't find
 a simple way around it. Solutions are appreciated.
 
-    ```html
     <img id="element" src="" onerror="$(this).brokenImages({ customFunction: changeLayout })"/>
-    ```
 
 **Note**: Without an options object running the plugin will result in no-op
 
