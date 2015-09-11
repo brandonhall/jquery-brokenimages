@@ -11,6 +11,6 @@
     "jquery-plugin", 
     "images"
   ],
-  "ignore": [Add],
+  "ignore": [],
   "license": "MIT"
 }
