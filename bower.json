@@ -1,0 +1,15 @@
+{
+  "name": "jquery.brokenImages",
+  "version": "0.1",
+  "authors": [
+    "Brandon Hall <b@brandonhall.me>"
+  ],
+  "description": "Take control of the broken images incurred by your web app",
+  "main": "jquery.brokenImages.js",
+  "keywords": [
+    "jquery", 
+    "jquery-plugin", 
+    "images"
+  ],
+  "license": "MIT"
+}
